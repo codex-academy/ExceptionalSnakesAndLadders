@@ -2,6 +2,6 @@
 
 A workshop reflecting on Exceptions while building a Snakes & Ladders game.
 
-The session is recorded [here](https://github.com/codex-academy/ExceptionalSnakesAndLadders/tree/done).
+The recorded session is [here](https://projectcodex.ams3.digitaloceanspaces.com/workshops/SnakesAndLaddersExceptionsWorkshop.mp4).
 
-The final outcome is available in the `done` branch.
+The final outcome is available in the [done]((https://github.com/codex-academy/ExceptionalSnakesAndLadders/tree/done) branch.
